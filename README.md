@@ -27,9 +27,9 @@ Data Source are mainly pulled from the below sources:
 
 H2O AutoML frame work is utilized to predict the hiring status of companies with their investment, funding information and demographics information including industry, age etc. 
 
-Best Performace model: Gradient Boosting Machine (GBM)
-False Positive Rate: 3.22% 
-F1 Score: 94.57%
+Best Performace model: Gradient Boosting Machine (GBM)<br>
+False Positive Rate: 3.22% <br>
+F1 Score: 94.57%<br>
 Gini Index: 97%
 
 =============
