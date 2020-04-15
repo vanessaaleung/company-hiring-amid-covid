@@ -2,6 +2,8 @@
 
 **Team Member:  Vanessa Liang/ Minke Wang/ Stella Zhang/ Yuping Qi**
 
+![COVID 2019 Challenge - Who's Hiring](https://github.com/vanessaaleung/hiring-amid-covid/blob/master/COVID%2019%20Challenge.jpg)
+
 During the special time period of Corona Virus pandemic, it has been especially tough for graduating students and professionals to successfuly land a job. We want to take the initiative to offer help by providing strategic recommendations in job search and accepting offers. Through examining the company's demographic information and funding stauts, we build machine learning models with H2O framework targeting at predicting the future hiring status of companies in the job market in hope to mitigate risks of receiving offer revokes and maximize job search opportunity efficiency during such a hard time.  
 
 Here is our presentation slides outlining our key findings and techniques: 
