@@ -39,7 +39,13 @@ Gini Index: 97%
 ### Recommendations
 
 Based on the modeling results, we reccommend that job seekers keep in mind the follow suggestions: 
-1. Companies financial status and establishment history are two important aspect need to be carefully considered before accepting offers.<br>
-2. Investors could focus more on the companies seed funding amount as a reference.
+For job seekers: 
+1. Seek companies already reached round B of funding
+2. Consider companies with longer operating history  
+3. Business-Facing Companies, Finance and Security Industry are promising 
+
+For policy makers and state governors:
+1. Keep an eye on vulnerable industries, consider subsidizing Customer-facing education, retail, and social media industries
+2. Encourage states to diversify industries
 
 =============
